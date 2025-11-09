@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_URL": "https://dex.kongo.one",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
-  "VITE_SEO_TWITTER_HANDLE": "",
+  "VITE_SEO_TWITTER_HANDLE": "@Kongo_One",
   "VITE_SEO_THEME_COLOR": "#69be28",
   "VITE_SEO_KEYWORDS": "",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
