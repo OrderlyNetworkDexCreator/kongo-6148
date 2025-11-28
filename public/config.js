@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Rewards,Vaults",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "About, https://ww.kongo.com; X, https://x.com/Kongo_One",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
@@ -37,5 +37,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": ""
+  "VITE_ANALYTICS_SCRIPT": "<script type=\"module\">\n  // Import the functions you need from the SDKs you need\n  import { initializeApp } from \"https://www.gstatic.com/firebasejs/12.6.0/firebase-app.js\";\n  import { getAnalytics } from \"https://www.gstatic.com/firebasejs/12.6.0/firebase-analytics.js\";\n  // TODO: Add SDKs for Firebase products that you want to use\n  // https://firebase.google.com/docs/web/setup#available-libraries\n\n  // Your web app's Firebase configuration\n  // For Firebase JS SDK v7.20.0 and later, measurementId is optional\n  const firebaseConfig = {\n    apiKey: \"AIzaSyCe7LfodulsiuiHMnJIEGZbMjywgplmS04\",\n    authDomain: \"kongo-d7ffa.firebaseapp.com\",\n    projectId: \"kongo-d7ffa\",\n    storageBucket: \"kongo-d7ffa.firebasestorage.app\",\n    messagingSenderId: \"468973965344\",\n    appId: \"1:468973965344:web:245eeab3e660123ea02c45\",\n    measurementId: \"G-6LKNEJCNW7\"\n  };\n\n  // Initialize Firebase\n  const app = initializeApp(firebaseConfig);\n  const analytics = getAnalytics(app);\n</script>"
 };
