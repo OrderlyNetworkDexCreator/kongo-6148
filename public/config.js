@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "LOW FEES.  Great Community.  15+ Chains Supported.  100+ Trading pairs.  Up to 100x leverage.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Vaults,Swap",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Vaults,Swap,Campaigns",
   "VITE_CUSTOM_MENUS": "Kongo, https://www.kongo.one",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
